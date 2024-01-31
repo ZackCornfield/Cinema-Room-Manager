@@ -4,6 +4,8 @@ This is the **Cinema Room Manager** project created by me.
 
 You can find the original project description and tasks on [Hyperskill](https://hyperskill.org/projects/133).
 
+Check out my profile: https://hyperskill.org/profile/606049336
+
 ## How to Run
 
 To run the Cinema Room Manager project, follow these steps:
